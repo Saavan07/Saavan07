@@ -4,6 +4,8 @@ I'm studying Computer Science and Mathematics at the University of Illinois Urba
 
 I enjoy exploring different areas of computer science through projects and learning alongside other people. So far, that's included robotics, an Apple Watch fitness app, a meal-planning app, and a trading competition. This GitHub brings together some of that work, along with what I contributed and learned along the way.
 
+I'm also involved with Parasol Lab, where I'm learning about parallel computing and performance analysis through the [STAPL project](https://parasol-lab.gitlab.io/stapl-home/).
+
 I'm currently looking for software engineering and quantitative development internships where I can keep learning and contribute to a team.
 
 [LinkedIn](https://www.linkedin.com/in/saavan-kiran-78137330a/) · [Email](mailto:saavan.kiran@gmail.com)
