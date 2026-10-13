@@ -1,8 +1,10 @@
-# Saavan Kiran
+# Hi, I'm Saavan
 
-**Mathematics & Computer Science at UIUC · Expected May 2028**
+I'm studying Computer Science and Mathematics at the University of Illinois Urbana-Champaign, with expected graduation in May 2028.
 
-I build Python trading systems, Swift apps for wearable sensor data, and C++ robot controls. I'm seeking **software engineering and quantitative development internships**.
+I enjoy exploring different areas of computer science through projects and learning alongside other people. So far, that's included robotics, an Apple Watch fitness app, a meal-planning app, and a trading competition. This GitHub brings together some of that work, along with what I contributed and learned along the way.
+
+I'm currently looking for software engineering and quantitative development internships where I can keep learning and contribute to a team.
 
 [LinkedIn](https://www.linkedin.com/in/saavan-kiran-78137330a/) · [Email](mailto:saavan.kiran@gmail.com)
 
