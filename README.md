@@ -1,6 +1,6 @@
 # Saavan Kiran
 
-I'm a sophomore studying Computer Science and Mathematics at the University of Illinois Urbana-Champaign, interested in software engineering and quantitative roles.
+I'm studying Computer Science and Mathematics at the University of Illinois Urbana-Champaign, with expected graduation in May 2028. I'm interested in software engineering and quantitative roles.
 
 I build across mobile applications, trading systems, and robotics. I care about understanding the complete system: how data enters, how decisions are made, and what happens when something fails.
 
