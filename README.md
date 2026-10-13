@@ -9,8 +9,8 @@ I build across mobile applications, trading systems, and robotics. I care about 
 | Project | What to explore | My contribution |
 | --- | --- | --- |
 | [FormFit](https://github.com/Saavan07/FormFit) | Apple Watch motion collection, iPhone session storage, repetition analysis, and experimental Core ML feedback | Watch collector and controls, connectivity, phone UI and data integration, and collaborative model integration |
-| [UChicago Trading Competition 2026](projects/uchicago.md) | Event-driven Case 1 trading bot, risk/execution controls, diagnostics, and Case 2 portfolio research | Led the integrated Case 1 bot's development and research; contributed to the team's Case 2 work |
-| [myChef](projects/mychef.md) | Team-built recipe, pantry, meal-planning, and shopping-list web app | Frontend prototyping and shopping-list correctness and presentation, with shared integration work |
+| [UChicago Trading Competition 2026](https://github.com/Saavan07/uchicago-2026-competition) | Event-driven Case 1 trading bot, risk/execution controls, diagnostics, and Case 2 portfolio research | Led the integrated Case 1 bot's development and research; contributed to the team's Case 2 work |
+| [myChef](https://github.com/Saavan07/myChef) | Team-built recipe, pantry, meal-planning, and shopping-list web app | Frontend prototyping and shopping-list correctness and presentation, with shared integration work |
 | [VEX Robotics](https://github.com/Saavan07/VexRobotics-20020X-High-Stakes-Software-PIDs-included) | C++ drivetrain and arm PID control, driver controls, and autonomous code | Lead programmer for team 20020X's High Stakes robot |
 
 ## Data structures projects

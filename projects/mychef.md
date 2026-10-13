@@ -8,4 +8,4 @@ Saavan's recorded work includes frontend prototyping and shopping-list fixes spa
 
 This is a course prototype. Its inherited account handling and dietary logic require hardening before real-user deployment. Social meal sharing, AI recipe assistance, voice cooking guidance, and a native mobile release are future directions.
 
-A clean publication is being prepared from the original team repository while preserving its provenance. This case study does not link to a live deployment.
+The [personal repository](https://github.com/Saavan07/myChef) contains the team's source, cleaned history, setup instructions, a local database schema, a screenshot of the actual running app, and verification results. The original team repository is preserved. This case study does not link to a production deployment.

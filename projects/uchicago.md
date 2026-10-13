@@ -8,4 +8,4 @@ Case 2 contains collaborative portfolio submissions, notebooks, backtesting, and
 
 The Case 1 suite passed 211 offline tests during the October 2026 audit, including a new check requiring explicit runtime credentials. The Case 2 evaluator's imports and supplied data loading were also checked. These checks establish the tested behaviors, not profitability or live trading performance. No unaudited return, ranking, or Sharpe ratio is claimed here.
 
-A cleaned personal publication is being prepared with both cases, while the original shared repository and its contributor history remain intact.
+The [personal repository](https://github.com/Saavan07/uchicago-2026-competition) includes both cases, team and local development branches, original competition tags, and an original-to-cleaned commit map. The original shared repository and its contributor history remain intact.
